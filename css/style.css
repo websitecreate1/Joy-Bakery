@@ -395,4 +395,15 @@ footer {
     .contact-section {
         flex-direction: column;
     }
+
+    .hero-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 1rem; 
+    }
+
+    .btn-secondary {
+        background-color: transparent;
+        border: 2px solid #4E342E; 
+    }
 }
