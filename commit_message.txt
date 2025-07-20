@@ -1,1 +1,1 @@
-feat: update google maps location and improve responsiveness
+fix: update image links
